@@ -1,0 +1,19 @@
+{
+  "name": "whaleit",
+  "version": "1.0.0",
+  "description": "Have a whale of a time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rchristiani/whaleit.git"
+  },
+  "author": "Ryan Christiani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rchristiani/whaleit/issues"
+  },
+  "homepage": "https://github.com/Rchristiani/whaleit#readme"
+}
