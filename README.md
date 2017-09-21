@@ -1,6 +1,6 @@
 # Whaleit
 
-Have a whale of a time with this transform stream.
+Have a whale of a time with this transform stream. Replace any whales with 🐳 in all your text!
 
 ### Useage
 
@@ -8,8 +8,10 @@ Have a whale of a time with this transform stream.
     npm i --save whaleit
 ```
 
+In your code.
+
 ```
-const Whaleit = new require('whaleit')();
+const Whaleit = require('whaleit');
 
 const whaleit = new Whaleit();
 
